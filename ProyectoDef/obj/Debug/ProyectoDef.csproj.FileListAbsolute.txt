@@ -1,0 +1,8 @@
+C:\Users\Elián\source\repos\ProyectoDef\ProyectoDef\bin\Debug\ProyectoDef.exe.config
+C:\Users\Elián\source\repos\ProyectoDef\ProyectoDef\bin\Debug\ProyectoDef.exe
+C:\Users\Elián\source\repos\ProyectoDef\ProyectoDef\bin\Debug\ProyectoDef.pdb
+C:\Users\Elián\source\repos\ProyectoDef\ProyectoDef\obj\Debug\ProyectoDef.csproj.AssemblyReference.cache
+C:\Users\Elián\source\repos\ProyectoDef\ProyectoDef\obj\Debug\ProyectoDef.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elián\source\repos\ProyectoDef\ProyectoDef\obj\Debug\ProyectoDef.csproj.CoreCompileInputs.cache
+C:\Users\Elián\source\repos\ProyectoDef\ProyectoDef\obj\Debug\ProyectoDef.exe
+C:\Users\Elián\source\repos\ProyectoDef\ProyectoDef\obj\Debug\ProyectoDef.pdb
